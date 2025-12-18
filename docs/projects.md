@@ -16,7 +16,7 @@
 
 **Логіка роботи проєкту (блок-схема):**
 
-![Block-scheme](./images/safeaccess-drawio.jpg)
+![Block-scheme](./images/safeaccess-drawio.png)
 
 ## 2. Проєкт: "KnowledgeHub — Корпоративна база знань"
 
