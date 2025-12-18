@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Вітаю на моєму сайті! 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 📑 Про мене
 
-## Commands
+Мене звати **Староватова Олександра**, я навчаюсь на кафедрі комп'ютерних наук. Захоплююся створенням якісної технічної документації, яка допомагає поєднати складний код із потребами користувача.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Цей сайт — демонстрація моїх навичок у структуруванні інформації та описі ІТ-процесів.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Alt text](images/photo.jpg)
