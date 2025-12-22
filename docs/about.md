@@ -1,3 +1,3 @@
 ## 🚀 Ключові компетенції
 
-![Excel table](/images/table-excel.jpg)
+![Excel table](./images/table-excel.jpg)
